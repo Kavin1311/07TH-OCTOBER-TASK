@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 options = webdriver.ChromeOptions()
 options.add_argument("--incognito")
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome(options=options) 
 driver.get("https://www.saucedemo.com/")
 driver.find_element(By.ID,"user-name").send_keys("standard_user")
 driver.find_element(By.ID,"password").send_keys("secret_sauce")
