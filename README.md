@@ -22,7 +22,6 @@ time.sleep(20)
 
 
 # TC_02
-<img width="621" height="52" alt="image" src="https://github.com/user-attachments/assets/f21c33a8-d272-49b9-8fec-f461b73eb216" />
 ```
 import time
 from selenium import webdriver
@@ -38,7 +37,6 @@ time.sleep(60)
 <img width="891" height="774" alt="image" src="https://github.com/user-attachments/assets/2d522517-67bf-4234-be3b-3906fa7bb8cb" />
 
 # TC_03
-<img width="684" height="65" alt="image" src="https://github.com/user-attachments/assets/e0c77054-31ef-41fe-aae1-67754500d1d5" />
 ```
 import time
 from selenium import webdriver
@@ -54,7 +52,7 @@ time.sleep(60)
 <img width="1021" height="849" alt="image" src="https://github.com/user-attachments/assets/42006af5-468c-4d35-bd65-614d81a02644" />
 
 # TC_04
-<img width="742" height="70" alt="image" src="https://github.com/user-attachments/assets/03d6d1d7-0867-45ee-b0ed-0c07aba0a2bd" />
+
 ```
 import time 
 from selenium import webdriver
@@ -73,7 +71,7 @@ time.sleep(20)
 <img width="1027" height="833" alt="image" src="https://github.com/user-attachments/assets/965e0941-1f40-443a-9fd9-28b7c0a3bbde" />
 
 # TC_05
-<img width="700" height="54" alt="image" src="https://github.com/user-attachments/assets/2af1d6cd-9f59-47cf-9d1a-58d1ea889593" />
+
 ```
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -92,7 +90,6 @@ ActionChains(driver).move_to_element(element).perform()
 
 
 # TC_06
-<img width="767" height="61" alt="image" src="https://github.com/user-attachments/assets/f3dffbf2-8cb6-4f37-bdf1-4a7847b57289" />
 ```
 import time
 from selenium import webdriver
