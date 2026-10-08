@@ -1,6 +1,5 @@
 # 07TH-OCTOBER-TASK
 # TC_01
-<img width="736" height="123" alt="image" src="https://github.com/user-attachments/assets/ddaf9e63-6a0e-4b29-be67-6d93b3ee1e1a" />
 ```
 import time
 from selenium import webdriver
